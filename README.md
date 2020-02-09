@@ -15,12 +15,19 @@ See [LICENSE](https://raw.githubusercontent.com/ndexnetwork/nDEX/master/.github/
 ### PORTS AND DETAILS
 --------------------
 Name of Blockchain: nDEX
+
 Coin Symbol: NDX
+
 Coin Supply: 1B
+
 Coin Supply to nDEX Network: 900M
+
 Peer port: 6899
+
 Testnet peer port: 6898
+
 API server port: 6868
+
 
 ## ndex-node
 ```
@@ -34,11 +41,17 @@ to run: npm install
 ### Well known SEED or Web wallets:
 
 https://ndxseed.npay.life
+
 https://ndx.npay.life
+
 https://ndxdaily.npay.life
+
 https://ndxlive.npay.life
+
 https://ndxeco.npay.life
+
 https://ndxworld.npay.life
+
 
 
 
