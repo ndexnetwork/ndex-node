@@ -22,6 +22,13 @@ Peer port: 6899
 Testnet peer port: 6898
 API server port: 6868
 
+## ndex-node
+```
+to run: npm install
+        npm run ndex
+        
+```        
+
 ### Website of the project: [nDEX Network](https://ndexnetwork.com)
 
 ### Well known SEED or Web wallets:
@@ -54,47 +61,7 @@ ndexnetwork/ndex
 [ No deps no fixer!!!]
 ```
 
-### Open JDK works FINE!!
-----
-### Run it! ##
 
-  - click on the NDX icon, or start from the command line:
-  - linux: `./start.sh`
-  - Window: `run.bat`
-
-  - wait for the JavaFX wallet window to open
-  - on platforms without JavaFX, open http://localhost:6868/ in a browser
-
-----
-### Compile it! ##
-
-  - if necessary with: `./compile.sh`
-  - you need jdk-8 as well [Use openjdk (Linux users)]
-
-----
-## Troubleshooting the NDX Server ##
-
-  - How to Stop the NDX Server?
-    - click on NDX Stop icon, or run `./stop.sh`
-    - or if started from command line, ctrl+c or close the console window
-
-  - UI Errors or Stacktraces?
-    - report on Github
-
-  - Permissions Denied?
-    - no spaces and only latin characters in the path to the NRS installation directory
-    - known jetty issue
-
-----
-### Further Reading ##
-
-  - in this repository:
-    - USERS-GUIDE.md
-    - DEVELOPERS-GUIDE.md
-    - OPERATORS-GUIDE.md
-    - In the doc folder
-
-----
 
 ```
                                Copyright © 2020 nDEX Network Ltd.
