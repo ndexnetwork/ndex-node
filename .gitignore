@@ -6,6 +6,7 @@
 /project.iml
 /nxt_db
 /webapps/
+/node_modules
 /classes/
 /*.log
 /*.log.*
